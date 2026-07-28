@@ -1,0 +1,6 @@
+{
+  "name": "MBTI 향수 조향 클래스 & AI 아이스브레이킹",
+  "description": "16가지 MBTI 향을 활용한 5단계 조향 클래스, AI 내면 분석, A/B타입 10방울 30ml 자동 환산 및 디지털 라벨 QR코드 보관함",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
